@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Dhruv Desai (201501024)
+// Engineer: Adit Arun Patel (201501003)
 // Create Date:   13:32:57 05/07/2016
 // Design Name:   Inversion of matrix 
 // Revision:
