@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Dhruv Desai (201501024)
+// Engineer: Adit Arun Patel (201501003)
 // 
 // Create Date:    17:38:48 5/06/2016 
 // Design Name: 
